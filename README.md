@@ -1,4 +1,4 @@
-# AcademiaCapgemini
+# Desafio de Programação - Academia Capgemini
 Repositório para resolução do DESAFIO DE PROGRAMAÇÃO 02 - ACADEMIA CAPGEMINI.
 
 ## Passos para execução do projeto
