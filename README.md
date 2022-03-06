@@ -12,12 +12,17 @@ Logo após obter um clone do projeto, entre no diretório em que foi instalado o
 ```
 cd .\AcademiaCapgemini\
 ```
+
+### Questão 1
 ```
 java .\src\Questao1.java
 ```
+
+### Questão 2
 ```
 java .\src\Questao2.java
 ```
+### Questão 3
 ```
 java .\src\Questao3.java
 ```
